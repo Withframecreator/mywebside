@@ -1,0 +1,6 @@
+{
+  "name": "With Frame Creator",
+  "description": "Professional Photography & Cinematography Studio specializing in Weddings, Events, Pre-wedding, Fashion, and Reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
